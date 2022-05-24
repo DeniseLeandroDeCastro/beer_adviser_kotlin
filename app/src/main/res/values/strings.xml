@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+
+    <string name="find_beer">Encontrar uma cerveja!</string>
+    <string name="brands">Nenhuma cerveja selecionada</string>
+
+    <string-array name="beer_colors">
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+        <item>light</item>x
+    </string-array>
+</resources>
